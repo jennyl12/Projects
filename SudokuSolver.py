@@ -1,3 +1,5 @@
+#Jenny's sudoku solver
+
 from pprint import pprint
 
 def find_next_empty(puzzle):
